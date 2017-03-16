@@ -1,12 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 3: March 12, 2016 
+### Day 4: March 13, 2016 
 
 **Today's Progress**: First day logging progress on Github. Working on CSS animations and pure Css images. 
 
 **Thoughts:** Working on improving design skills. 
 
 **Link to work:** [Pure CSS Koala](http://codepen.io/serg_92/pen/qrmLdy)
+
+### Day 5: March 14, 2016 
+
+**Today's Progress**: Created repo for the twitch tv app. Trying to figure out how the Twitch api works. 
+
+**Thoughts:** Maybe I should focus on the functionnality of the app first? 
+
+**Link to work:** 
+not on codepen yet. 
+
+### Day 6: March 15, 2016 
+
+**Today's Progress**: Having trouble with the api but figured how to get info about the featured channels on the twitch
+
+**Thoughts:** Will try and work with for now and add some styling.  
+
+**Link to work:** 
+not on codepen yet. 
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
