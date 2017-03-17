@@ -26,6 +26,15 @@ not on codepen yet.
 **Link to work:** 
 not on codepen yet. 
 
+### Day 7: March 16, 2016 
+
+**Today's Progress**: Solved FCC intermediate algorith "Wherefore art thou", where I learned about using for-in loops to loop through objets.
+
+**Thoughts:**  
+
+**Link to work:** 
+FCC - [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
