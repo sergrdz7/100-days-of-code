@@ -35,6 +35,32 @@ not on codepen yet.
 **Link to work:** 
 FCC - [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
 
+### Day 8: March 17, 2016 
+
+**Today's Progress**: Worked on Udemy's web dev bootcamp on using bootstraps grid system
+
+**Thoughts:**  
+
+**Link to work:** 
+FCC - [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+
+### Day 9: March 18, 2016 
+
+**Today's Progress**: Worked on Udemy's added photos and navigation
+
+**Thoughts:**  
+
+**Link to work:** 
+[Github repo](https://github.com/sergrdz7/theImageGallery)
+
+### Day 10: March 19, 2016 
+
+**Today's Progress**: Worked on Udemy's web dev bootcampj, finished up styling and navigation
+
+**Thoughts:**  
+
+**Link to work:** 
+[Github repo](https://github.com/sergrdz7/theImageGallery)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
