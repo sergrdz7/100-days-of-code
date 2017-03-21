@@ -55,12 +55,21 @@ FCC - [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art
 
 ### Day 10: March 19, 2016 
 
-**Today's Progress**: Worked on Udemy's web dev bootcampj, finished up styling and navigation
+**Today's Progress**: Worked on Udemy's web dev bootcamp, finished up styling and navigation
 
 **Thoughts:**  
 
 **Link to work:** 
 [Github repo](https://github.com/sergrdz7/theImageGallery)
+
+### Day 11: March 20, 2016 
+
+**Today's Progress**: Back to working on FCC twitchtv App. Added bootstrap grids to divide the featured streamers but still in progress. 
+
+**Thoughts:**   
+
+**Link to work:** 
+[Github repo](https://github.com/sergrdz7/twitchtvApp)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
