@@ -70,6 +70,15 @@ FCC - [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art
 
 **Link to work:** 
 [Github repo](https://github.com/sergrdz7/twitchtvApp)
+
+### Day 11: March 21, 2016 
+
+**Today's Progress**: More progress on Twitch project. Now able to get data using client ID. 
+
+**Thoughts:**: Trying to decide whats the best way to display data to complete the user stories.   
+
+**Link to work:** 
+[Github repo](https://github.com/sergrdz7/twitchtvApp)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
