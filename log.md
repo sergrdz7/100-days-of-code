@@ -79,6 +79,15 @@ FCC - [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art
 
 **Link to work:** 
 [Github repo](https://github.com/sergrdz7/twitchtvApp)
+
+### Day 13: March 22, 2016 
+
+**Today's Progress**: More progress on Twitch project. Trying to integrate a search bar to be able to search for channels and get their information. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+[Github repo](https://github.com/sergrdz7/twitchtvApp)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
