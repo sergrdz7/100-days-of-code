@@ -98,6 +98,16 @@ Next up: Adding a navigation bar.
 
 **Link to work:** 
 [Github repo](https://github.com/sergrdz7/twitchtvApp)
+
+### Day 15: March 24, 2016 
+
+**Today's Progress**: Finalized first version of twitch project. Added navigation, contact links and finished styling. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+[Github repo](https://github.com/sergrdz7/twitchtvApp)
+[Working Codepen](https://codepen.io/serg_92/project/editor/ZmzzRX/)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
