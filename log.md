@@ -108,6 +108,17 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Github repo](https://github.com/sergrdz7/twitchtvApp)
 [Working Codepen](https://codepen.io/serg_92/project/editor/ZmzzRX/)
+
+### Day 16: March 25, 2016 
+
+**Today's Progress**: Solved Intermediate Algorithm on free code camp 
+
+**Thoughts:**: Will be focusing more on Javascript fundamentals
+
+**Link to work:** 
+[FreeCodeCamp](https://www.freecodecamp.com/challenges/search-and-replace)
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
