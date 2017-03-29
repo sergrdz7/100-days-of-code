@@ -128,6 +128,23 @@ Next up: Adding a navigation bar.
 
 [FreeCodeCamp](https://www.freecodecamp.com/challenges/pig-latin#?solution=%0Afunction%20translatePigLatin(str)%20%7B%0A%20%2F%2FRegular%20expression%20used%20to%20find%20vowels%20%0A%20var%20regex%20%3D%20%2F%5Baeiou%5D%2Fgi%3B%20%0A%20%2F%2FCheck%20if%20first%20letter%20is%20vowel%0A%20if%20(str%5B0%5D.match(regex))%7B%0A%20%20%20str%20%3D%20str%20%2B%20%22way%22%3B%0A%20%7D%20else%20%7B%0A%20%20%20%2F%2FFind%20where%20the%20vowel%20is%20at%0A%20%20%20var%20vowelIndex%20%3D%20str.indexOf(str.match(regex)%5B0%5D)%3B%0A%20%20%20%2F%2FUse%20that%20index%20to%20divide%20string%20and%20then%20add%20the%20consonants%20to%20the%20end%20with%20%22ay%22%0A%20%20%20str%20%3D%20str.substr(vowelIndex)%20%2B%20str.substring(0%2CvowelIndex)%20%2B%20%22ay%22%3B%20%0A%20%7D%0A%20%20%0A%20%20return%20str%3B%0A%7D%0A%0AtranslatePigLatin(%22consonant%22)%3B%0A);
 
+### Day 18: March 27, 2016 
+
+**Today's Progress**: No coding, read up on Javascript patterns, using regular expressions, and also an introduction to the mean stack. 
+
+**Thoughts:**: Will be focusing more on Javascript fundamentals
+
+**Link to work:** 
+
+### Day 19: March 27, 2016 
+
+**Today's Progress**: More Javascript patterns, FCC algorithms 
+
+**Thoughts:**: Will be starting on rebuilding portfolio
+
+**Link to work:** 
+
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
