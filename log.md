@@ -136,13 +136,30 @@ Next up: Adding a navigation bar.
 
 **Link to work:** 
 
-### Day 19: March 27, 2016 
+### Day 19: March 28, 2016 
 
 **Today's Progress**: More Javascript patterns, FCC algorithms 
 
 **Thoughts:**: Will be starting on rebuilding portfolio
 
 **Link to work:** 
+
+### Day 20: March 29, 2016 
+
+**Today's Progress**: More Javascript patterns, learing about the importance of functions in javascript and how they are used objects and used to create scope. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+
+### Day 21: March 30, 2016 
+
+**Today's Progress**: Made repository for portfolio and working on "requirements" and rought sketch of the page.  
+
+**Thoughts:**: 
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
 
 
 
