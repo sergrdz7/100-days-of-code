@@ -161,6 +161,25 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/portfolio)
 
+### Day 22: March 31, 2016 
+
+**Today's Progress**: Made repository for portfolio and working on "requirements" and rought sketch of the page.  
+
+**Thoughts:**: 
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 23: April 2, 2016 
+
+**Today's Progress**: Simple navigation set up and front page 
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+
 
 
 <!--
