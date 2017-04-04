@@ -179,6 +179,15 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/portfolio)
 
+### Day 24: April 3, 2016 
+
+**Today's Progress**: Worked on Udemy's Wev Dev Bootcamp, learning more about the DOM. Also solved one FCC algorithm challenge
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+[Free Code Camp](https://www.freecodecamp.com/challenges/boo-who#?solution=%0Afunction%20booWho(bool)%20%7B%0A%20%20%2F%2F%20What%20is%20the%20new%20fad%20diet%20for%20ghost%20developers%3F%20The%20Boolean.%0A%20%20if(bool%20%3D%3D%3D%20true%20%7C%7C%20bool%20%3D%3D%3D%20false)%7B%0A%20%20%20%20bool%20%3D%20true%3B%20%0A%20%20%7Delse%7B%0A%20%20%20%20bool%20%3D%20false%3B%20%0A%20%20%7D%0A%20%20return%20bool%3B%0A%7D%0A%0AbooWho(null)%3B%0A)
 
 
 
