@@ -198,6 +198,15 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-sergrdz7.html)
 
+### Day 26: April 5, 2016 
+
+**Today's Progress**: Started JavaScript30 challenge Day 02 - JS + CSS Clock
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
+
 
 
 
