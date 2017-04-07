@@ -207,7 +207,14 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
 
+### Day 27: April 6, 2016 
 
+**Today's Progress**: Learning more about Javascript patterns specifically about different functions and when to use them. More progress on portfolio site. 
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
 
 
 <!--
