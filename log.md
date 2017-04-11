@@ -216,6 +216,33 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
 
+### Day 28: April 7, 2016 
+
+**Today's Progress**: Jumping into codecademys SaaS course hoping to improve my CSS skills!
+
+**Thoughts:**:
+
+**Link to work:** 
+[CodeCademy.com](https://www.codecademy.com/learn/learn-sass)
+
+### Day 29: April 9, 2016 
+
+**Today's Progress**: JavasCript30-Day 3 was about using CSS variables and updating them using the DOM eventlisteners and data-set values
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
+[JavaScript30](https://github.com/sergrdz7/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+
+### Day 30: April 10, 2016 
+
+**Today's Progress**: Worked on portfolio main page, fixing transitions and call to action button 
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
