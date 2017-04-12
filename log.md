@@ -244,6 +244,15 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
 
+### Day 31: April 11, 2016 
+
+**Today's Progress**: Worked on portfolio main page, added title animations
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
