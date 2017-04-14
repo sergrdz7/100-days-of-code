@@ -253,6 +253,23 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
 
+### Day 32: April 12, 2016 
+
+**Today's Progress**: Going through JavaScript Patterns learing more about immediate/callback functions and when is best to use them.
+
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
+
+### Day 33: April 13, 2016 
+
+**Today's Progress**: Started working Backend FCC track. Setting up cloud 9 and overview of git commands and Github. How to add, commit, push, form, merge and pull requests
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
