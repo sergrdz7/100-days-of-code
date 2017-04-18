@@ -270,6 +270,22 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-sergrdz7.html)
 
+### Day 34: April 15, 2016 
+
+**Today's Progress**: FCC backend - Manage packages with npm
+**Thoughts:**:
+
+**Link to work:** 
+[FreeCodeCamp](https://www.freecodecamp.com/challenges/manage-packages-with-npm)
+
+### Day 35: April 17, 2016 
+
+**Today's Progress**: FCC backend and more progress on porfolio(adding content sections)
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
