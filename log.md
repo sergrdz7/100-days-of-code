@@ -286,6 +286,15 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/portfolio)
 
+### Day 36: April 19, 2016 
+
+**Today's Progress**: FCC backend and more progress on porfolio(fixed equal height issue by adding MatchHeight.js plug-in)
+**Thoughts:**:
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
