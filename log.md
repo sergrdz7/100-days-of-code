@@ -294,6 +294,14 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/portfolio)
 
+### Day 37: April 20, 2016 
+
+**Today's Progress**: Completed wev dev bootcamp DOM challenge 
+**Thoughts:**:
+
+**Link to work:** 
+[Codepen](http://codepen.io/serg_92/pen/wdGBrg)
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
