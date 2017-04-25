@@ -302,6 +302,12 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Codepen](http://codepen.io/serg_92/pen/wdGBrg)
 
+### Day 38: April 24, 2016 
+
+**Today's Progress**: Paused 100-days-of-code for a few days. Now continue working on FCC back-end track.   
+
+**Link to work:** 
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
