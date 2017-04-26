@@ -308,6 +308,12 @@ Next up: Adding a navigation bar.
 
 **Link to work:** 
 
+### Day 39: April 25, 2016 
+
+**Today's Progress**: Added contact form to porfolio but still needs validation.   
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
