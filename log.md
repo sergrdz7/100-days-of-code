@@ -315,6 +315,38 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/portfolio)
 
+
+### Day 40: April 26, 2016 
+
+**Today's Progress**: Worked on form validation using jQuery and PHP 
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 41: April 27, 2016 
+
+**Today's Progress**: Continue reading Javascript pattern, no coding today 
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 42: April 28, 2016 
+
+**Today's Progress**: Worked on portfolio: Fixed PHP issue by creating a localhost enviroment using MAMP
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 43: April 29, 2016 
+
+**Today's Progress**: Worked on portfolio: Finished PHP validation. Practiced on some shell commands. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
