@@ -346,6 +346,33 @@ Next up: Adding a navigation bar.
 **Link to work:** 
 [Portfolio](https://github.com/sergrdz7/portfolio)
 
+### Day 44: April 30, 2016 
+
+**Today's Progress**: Worked on portfolio: Set up hosting for portfolio. Now on sergdev.com
+
+**Thoughts:**: 
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 44: May 1, 2016 
+
+**Today's Progress**: Set up ftp accounts with ftp clients to easily transfer files to web server. 
+
+**Thoughts:**: 
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 45: May 2, 2016 
+
+**Today's Progress**: Started CTCI book. Also learing more javascript patterns: Immediate Object Initialization, Init-time branching, Function properties-A memoization pattern, Configuration Objects.
+
+**Thoughts:**: Some patterns are still confusing but I will continue to review them and see how they can be applied to any of my projects.
+
+**Link to work:** 
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
