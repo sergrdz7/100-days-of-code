@@ -395,7 +395,25 @@ Next up: Adding a navigation bar.
 
 **Today's Progress**: Updated Projects section on portfolio, added descriptions, buttons, and links to working pens of each project.
 
-**Thoughts:**: Looking for a good reactJS course to start implementing on future projects. 
+**Thoughts:**: Looking for a good reactJS course to start implementing on future projects.
+
+**Link to work:**
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 48: May 12, 2016
+
+**Today's Progress**: Little progress today, read more of CTCI.
+
+**Thoughts:**:
+
+**Link to work:**
+[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 49: May 13, 2016
+
+**Today's Progress**: Finally found a good reactJS course, got started. More CTCI, started on Big O notation.
+
+**Thoughts:**:
 
 **Link to work:**
 [Portfolio](https://github.com/sergrdz7/portfolio)
