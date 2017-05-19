@@ -418,6 +418,59 @@ Next up: Adding a navigation bar.
 **Link to work:**
 [Portfolio](https://github.com/sergrdz7/portfolio)
 
+### Day 50: May 14, 2016
+
+**Today's Progress**: Started coding an RGB color game from web dev bootcamp.
+
+**Thoughts:**:
+
+**Link to work:**
+[RGB Color Game](https://github.com/sergrdz7/RGBColorGame)
+
+### Day 51: May 15, 2016
+
+**Today's Progress**: Got stuck on a small bug on the color game. Found the problem after a few hours, one variable was declared out of scope and breaking the whole program.
+
+**Thoughts:**:
+
+**Link to work:**
+[RGB Color Game](https://github.com/sergrdz7/RGBColorGame)
+
+### Day 52: May 16, 2016
+
+**Today's Progress**: Learning more on Big'O notation and CTCI book. Worked on RGB Color game logic.
+
+**Thoughts:**:
+
+**Link to work:**
+[RGB Color Game](https://github.com/sergrdz7/RGBColorGame)
+
+### Day 53: May 17, 2016
+
+**Today's Progress**: Finished with game logic and styling
+
+**Thoughts:**: Still needs some refactoring
+
+**Link to work:**
+[RGB Color Game](https://github.com/sergrdz7/RGBColorGame)
+
+### Day 54: May 18, 2016
+
+**Today's Progress**: Worked on portfolio: fixed icon issues and a modal window to display my resume.
+
+**Thoughts:**:
+
+**Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 55: May 19, 2016
+
+**Today's Progress**: Worked on portfolio: styling modal and manually adding an html version of resume.
+
+**Thoughts:**:
+
+**Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio)
+
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
