@@ -12,7 +12,7 @@
 
 **Today's Progress**: Created repo for the twitch tv app. Trying to figure out how the Twitch api works.
 
-**Thoughts:** Maybe I should focus on the functionnality of the app first?
+**Thoughts:** Maybe I should focus on the functionality of the app first?
 
 **Link to work:**
 not on codepen yet.
@@ -465,6 +465,22 @@ Next up: Adding a navigation bar.
 ### Day 55: May 19, 2016
 
 **Today's Progress**: Worked on portfolio: styling modal and manually adding an html version of resume.
+
+**Thoughts:**:
+
+**Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 56: May 20, 2016
+
+**Today's Progress**: Worked on portfolio: finished resume styling added more icons
+
+**Thoughts:**:
+
+**Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio)
+
+### Day 57: May 21, 2016
+
+**Today's Progress**: Worked on portfolio: Edited page content, Icons, Front page message, CTA button, added download button to download pdf of resume.
 
 **Thoughts:**:
 
