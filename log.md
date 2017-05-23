@@ -486,6 +486,14 @@ Next up: Adding a navigation bar.
 
 **Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio)
 
+### Day 58: May 22, 2016
+
+**Today's Progress**: Partially fixed some flexbox issues with bootstrap in safari. Finally deployed portfolio to server.
+
+**Thoughts:**: Not 100% satisfied but will continue to edit as I build more projects.
+
+**Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio) see it live at [www.sergdev.com](http://sergdev.com) 
+
 
 
 <!--
