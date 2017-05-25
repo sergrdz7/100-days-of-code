@@ -492,8 +492,23 @@ Next up: Adding a navigation bar.
 
 **Thoughts:**: Not 100% satisfied but will continue to edit as I build more projects.
 
-**Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio) see it live at [www.sergdev.com](http://sergdev.com) 
+**Link to work:**[Portfolio](https://github.com/sergrdz7/portfolio) see it live at [www.sergdev.com](http://sergdev.com)
 
+### Day 59: May 23, 2016
+
+**Today's Progress**: Refactored RGB Color Game but could not make the refactored version work on CodePen. Learning more on ES6.
+
+**Thoughts:**:
+
+**Link to work:**[RGB Color game repo](https://github.com/sergrdz7/RGBColorGame) see it live in [CodePen](https://codepen.io/serg_92/full/oWmXRj/)
+
+### Day 60: May 24, 2016
+
+**Today's Progress**: No coding today just a learning session. Learning about let variables that provide scope, arrow functions and their short syntax, the dot operator and how they can break up arrays in lists, special for let loops that are super convenient.
+
+**Thoughts:**:
+
+**Link to work:**
 
 
 <!--
