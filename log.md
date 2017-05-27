@@ -510,6 +510,14 @@ Next up: Adding a navigation bar.
 
 **Link to work:**
 
+### Day 61: May 26, 2016
+
+**Today's Progress**: More learning about ES6: Export and Import statements for transfering variables and methods between scripts. Other data types such as Maps(), Symbols(), Set() values and some use cases for each. Static functions, classes, Setters, and Getters make the language look a lot like Java.
+
+**Thoughts:**: Still trying to pic a project to start. Wanted to start using React but don't have enough knowledge of it as of yet.
+
+**Link to work:**
+
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
