@@ -522,9 +522,17 @@ Next up: Adding a navigation bar.
 
 **Today's Progress**: Had to stop for birthday celebration for two days. More learning about ES6: Learning about promises in ES6, how to handle them with resolve, and reject. Also how to use them to handle API requests.
 
-**Thoughts:**: Not fully understanding how to use them but I hope to dive in deeper once I find a project to implement them on. 
+**Thoughts:**: Not fully understanding how to use them but I hope to dive in deeper once I find a project to implement them on.
 
 **Link to work:**
+
+### Day 63: May 30, 2016
+
+**Today's Progress**: Set up local react environment with atom and npm to automate some tasks. Also managed to create my first React Components.
+
+**Thoughts:**:  
+
+**Link to work:**: 
 
 
 <!--
