@@ -532,8 +532,15 @@ Next up: Adding a navigation bar.
 
 **Thoughts:**:  
 
-**Link to work:**: 
+**Link to work:**:
 
+### Day 64: May 31, 2016
+
+**Today's Progress**: More on React. Learning about some of the advantages of using of the virtual DOM. Helps your app render specific elements of your app without reloading other elements of the DOM. Also, updated some details of my portfolio.  
+
+**Thoughts:**:  
+
+**Link to work:**: [CodePen](https://codepen.io/serg_92/pen/LywdQJ)
 
 <!--
 ### Day 0: February 30, 2016 (Example 2)
