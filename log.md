@@ -550,6 +550,14 @@ Next up: Adding a navigation bar.
 
 **Link to work:**: [Github](https://github.com/sergrdz7/ReactExercises)
 
+### Day 66: June 2, 2016
+
+**Today's Progress**: Working with more React and components with in components and how to set states and use props in a small contacts list. Also refactored some of the components converting them to functional stateless Components.
+
+**Thoughts:**:  
+
+**Link to work:**: [Github](https://github.com/sergrdz7/ReactExercises)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
