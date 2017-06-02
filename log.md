@@ -542,6 +542,14 @@ Next up: Adding a navigation bar.
 
 **Link to work:**: [CodePen](https://codepen.io/serg_92/pen/LywdQJ)
 
+### Day 64: May 31, 2016
+
+**Today's Progress**:Setting up local React environment manually by using npm and webpack. Becoming more familiar in digging into node modules and dealing with dependencies.     
+
+**Thoughts:**:  
+
+**Link to work:**: [Github](https://github.com/sergrdz7/ReactExercises)
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
