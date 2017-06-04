@@ -558,6 +558,21 @@ Next up: Adding a navigation bar.
 
 **Link to work:**: [Github](https://github.com/sergrdz7/ReactExercises)
 
+### Day 67: June 3, 2016
+
+**Today's Progress**: Working with more react component-life-cycle. Still getting used to setting states, and props and when and how to access them.
+
+**Thoughts:**: Making slow progress, it's seems quite complicated but I'm becoming more familiar with the life cycle of components as I work through the tutorials.
+
+**Link to work:**: [Github](https://github.com/sergrdz7/ReactExercises)
+
+### Day 68: June 4, 2016
+
+**Today's Progress**: Built simple application to learn some default methods used to update states and props of components. Such as: componentWillMount, componentDidMount. Its important to keep in mind that these methods exist for future applications. 
+
+**Thoughts:**:
+
+**Link to work:**: [Github](https://github.com/sergrdz7/ReactExercises)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
