@@ -568,11 +568,21 @@ Next up: Adding a navigation bar.
 
 ### Day 68: June 4, 2016
 
-**Today's Progress**: Built simple application to learn some default methods used to update states and props of components. Such as: componentWillMount, componentDidMount. Its important to keep in mind that these methods exist for future applications. 
+**Today's Progress**: Built simple application to learn some default methods used to update states and props of components. Such as: componentWillMount, componentDidMount. Its important to keep in mind that these methods exist for future applications.
 
 **Thoughts:**:
 
 **Link to work:**: [Github](https://github.com/sergrdz7/ReactExercises)
+
+### Day 69: June 5, 2016
+
+**Today's Progress**: Completed simple walkthrough on setting up react dependencies using npm, babel, and webpack. Also broke down bootstrap-blog theme into separate components and re-built it using react.
+
+
+**Thoughts:**:
+
+**Link to work:**: [react-blog](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/blog-app)
+[react-from-scratch](https://github.com/sergrdz7/react-from-scratch)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
