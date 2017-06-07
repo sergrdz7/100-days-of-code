@@ -583,6 +583,19 @@ Next up: Adding a navigation bar.
 
 **Link to work:**: [react-blog](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/blog-app)
 [react-from-scratch](https://github.com/sergrdz7/react-from-scratch)
+
+### Day 70: June 6, 2016
+
+**Today's Progress**: Completed two simple apps showcasing more React practice.
+1. A Shopping-Cart that simply displayed a list of items and updated their props and states on whether or not they were selected. Then added their total and displayed the sum of the selected items in a different component.
+2. A simple timer that displayed how long you were in the current page in seconds. Good practice of the Date() methods and also on updating states with other methods.
+3. Began learning about react-router, how to link to different components and setting their Route by using Link and the two properties that must be passed: path and component. Don't forget about calling the children where necessary! this.props.children
+
+
+**Thoughts:**: A lot of React learning in the past couple of days but really enjoying the learning process so far. React-router is still a bit confusing but with more practice I hope it becomes clearer on how to use it.  
+
+**Link to work:**: [course-purchase](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/course-purchase)
+[stop-watch](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/stop-watch)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
