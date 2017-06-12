@@ -596,6 +596,15 @@ Next up: Adding a navigation bar.
 
 **Link to work:**: [course-purchase](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/course-purchase)
 [stop-watch](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/stop-watch)
+
+### Day 71: June 5, 2016
+
+**Today's Progress**: Paused for a few days. Continue learning react. Today working on a survey-app where I'll be connecting the app to a firebase database and learning how to set it up. Also working with some npm uuid to add unique id's to users.
+
+**Thoughts:**: Started a survey-app using react. We will be storing information using firebase as our database.
+
+**Link to work:**: [course-purchase](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/course-purchase)
+[stop-watch](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/stop-watch)
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
