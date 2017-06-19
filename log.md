@@ -625,9 +625,33 @@ Next up: Adding a navigation bar.
 
 **Today's Progress**: Reviewing big'O notation, more review on lower, upper and tight bounds and practice on how to derive them
 
-**Thoughts:**: 
+**Thoughts:**:
 
 **Link to work:**: [Usurvey](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/survey-app)
+
+### Day 75: June 16, 2016
+
+**Today's Progress**: Reviewing big'O notation, going over to finding time complexity:
+1. drop lower order terms
+2. drop constant multiplier
+3. in conditional statements: pick the worse case scenario
+**Thoughts:**:
+
+**Link to work:**: [Usurvey](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/survey-app)
+
+### Day 76: June 17, 2016
+
+**Today's Progress**: Reviewing big'O notation, going over to finding time complexity:
+1. drop lower order terms
+2. drop constant multiplier
+3. in conditional statements: pick the worse case scenario
+**Thoughts:**:
+
+**Link to work:**: [Usurvey](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/survey-app)
+
+
+
+
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
