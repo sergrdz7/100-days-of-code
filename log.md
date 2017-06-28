@@ -649,6 +649,64 @@ Next up: Adding a navigation bar.
 
 **Link to work:**: [Usurvey](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/survey-app)
 
+### Day 77: June 19, 2016
+
+**Today's Progress**: Working on react survey-app, finishing user questions and storing them in an object to upload to firebase database.
+
+**Thoughts:**:
+
+**Link to work:**: [Usurvey](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/survey-app)
+
+### Day 78: June 20, 2016
+
+**Today's Progress**: Working on react survey-app, debugging issues with database connection, but finally it to communicate with the app.
+
+**Thoughts:**:
+
+**Link to work:**: [Usurvey](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/survey-app)
+
+### Day 79: June 21, 2016
+
+**Today's Progress**: Started another react app, this time using firebase email/password authentication.
+
+**Thoughts:**:
+
+**Link to work:**: [Login-app](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/blog-app)
+
+### Day 80: June 22, 2016
+
+**Today's Progress**: Working on login react app. Learning how to use firebase email/password authentication to check for existing users in database or add new ones.  
+
+**Thoughts:**:
+
+**Link to work:**: [Login-app](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/blog-app)
+
+### Day 81: June 24, 2016
+
+**Today's Progress**: Working on login react app, added google authentication as a pop-up window to the login-app.
+
+**Thoughts:**:
+
+**Link to work:**: [Login-app](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/blog-app)
+
+### Day 82: June 25, 2016
+
+**Today's Progress**: Working on login react app, changed google authentication to a new window instead of pop-up (recommended when authentication for mobile).     
+
+**Thoughts:**:
+
+**Link to work:**:[Login-app](https://github.com/sergrdz7/ReactExercises/tree/master/full-scale-apps/blog-app)
+
+### Day 83: June 27, 2016
+
+**Today's Progress**: Learning about handling APIs using axios, and superagent which handle http requests. I'll also be using the subreddit api for this project.
+
+**Thoughts:**:
+
+**Link to work:**:
+
+
+
 
 
 
