@@ -705,6 +705,21 @@ Next up: Adding a navigation bar.
 
 **Link to work:**:
 
+### Day 84: June 28, 2016
+
+**Today's Progress**: Starting a full-app Github Viewer using react, auth0, and react-bootstrap. The app will retrieve a Github user information using Githubs API. Made a basic skeleton using Create-react-app.  
+
+**Thoughts:**:
+
+**Link to work:**:
+
+### Day 85: June 29, 2016
+
+**Today's Progress**: Managed to get the Github app to retrieve information from the API. Will handle the data with different components. One to search for a user, another that displays the profile, and one to authenticate the user.
+
+**Thoughts:**:
+
+**Link to work:**:
 
 
 
