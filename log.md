@@ -711,7 +711,7 @@ Next up: Adding a navigation bar.
 
 **Thoughts:**:
 
-**Link to work:**:
+**Link to work:**:[Github searcher](https://github.com/sergrdz7/ReactExercises/tree/master/auth0-github-api)
 
 ### Day 85: June 29, 2016
 
@@ -719,7 +719,23 @@ Next up: Adding a navigation bar.
 
 **Thoughts:**:
 
-**Link to work:**:
+**Link to work:**:[Github searcher](https://github.com/sergrdz7/ReactExercises/tree/master/auth0-github-api)
+
+### Day 86: June 30, 2016
+
+**Today's Progress**: Worked on the profile component of the app. It will be able to display a Github's user data such as how many repositories they have, followers, and how many following. This is the final part of the app. It can use some improvement but I'll stick to the basic concepts and move on to the next project.
+
+**Thoughts:**:
+
+**Link to work:**:[Github searcher](https://github.com/sergrdz7/ReactExercises/tree/master/auth0-github-api)
+
+### Day 87: July 2, 2016
+
+**Today's Progress**: Getting started on new react project. Also looking for a way to showcase my projects using github pages.
+
+**Thoughts:**:
+
+**Link to work:**:[Github searcher](https://github.com/sergrdz7/ReactExercises/tree/master/auth0-github-api)
 
 
 
