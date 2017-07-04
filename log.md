@@ -737,6 +737,13 @@ Next up: Adding a navigation bar.
 
 **Link to work:**:[Github searcher](https://github.com/sergrdz7/ReactExercises/tree/master/auth0-github-api)
 
+### Day 88: July 3, 2016
+
+**Today's Progress**: Got the Youtube player working. Learning how to use youtube's API. The app is supposed to return a number of iframes with youtube videos depending on the channelID provided.  
+
+**Thoughts:**:
+
+**Link to work:**:[Github searcher](https://github.com/sergrdz7/ReactExercises/tree/master/auth0-github-api)
 
 
 
