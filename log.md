@@ -745,6 +745,19 @@ Next up: Adding a navigation bar.
 
 **Link to work:**:[Github searcher](https://github.com/sergrdz7/ReactExercises/tree/master/auth0-github-api)
 
+### Day 89: July 4, 2016
+
+**Today's Progress**: Finished the Youtube Player, not the best app but got some more practice on React concepts. Also goint through the last tutorial of the react course about Redux and the redux cycle:
+Step 1: create store: reducer and state
+Step 2: Reducer must include: state and action
+Step 3: Subscribe: store.subscribe()
+step 4: Dispatch   
+
+**Thoughts:**:
+
+**Link to work:**:[Redux-Demo](https://github.com/sergrdz7/ReactExercises/tree/master/redux-demo)
+
+
 
 
 
