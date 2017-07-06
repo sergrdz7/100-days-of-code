@@ -757,6 +757,14 @@ step 4: Dispatch
 
 **Link to work:**:[Redux-Demo](https://github.com/sergrdz7/ReactExercises/tree/master/redux-demo)
 
+### Day 90: July 4, 2016
+
+**Today's Progress**: A lot of trial and error trying to deploy a react app using create-react-app and Github pages. Also after finishing the short react course I'll be diving back into Freecodecamp's advance front-end projects.
+
+**Thoughts:**:
+
+**Link to work:**:[Firebase-login with Github Pages](https://sergrdz7.github.io/firebase-login/)
+
 
 
 
