@@ -765,6 +765,21 @@ step 4: Dispatch
 
 **Link to work:**:[Firebase-login with Github Pages](https://sergrdz7.github.io/firebase-login/)
 
+### Day 91: July 6, 2016
+
+**Today's Progress**: started looking on dribble for a nice calculator design. 
+
+**Thoughts:**:
+
+**Link to work:**:
+
+### Day 92: July 7, 2016
+
+**Today's Progress**: Trying to decide if making the app in react would be a feasible option, and if so what would be the best way to divide the app into components.
+
+**Thoughts:**:
+
+**Link to work:**:
 
 
 
