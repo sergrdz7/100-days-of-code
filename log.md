@@ -767,7 +767,7 @@ step 4: Dispatch
 
 ### Day 91: July 6, 2016
 
-**Today's Progress**: started looking on dribble for a nice calculator design. 
+**Today's Progress**: started looking on dribble for a nice calculator design.
 
 **Thoughts:**:
 
@@ -780,6 +780,31 @@ step 4: Dispatch
 **Thoughts:**:
 
 **Link to work:**:
+
+### Day 93: July 8, 2016
+
+**Today's Progress**: Creating simple sketch of calculator. Divided the calculator UI into different components, some might change as I build the app but it gives me a good starting point.
+
+**Thoughts:**:
+
+**Link to work:**:
+
+### Day 94: July 9, 2016
+
+**Today's Progress**: Did a couple of tutorials using flexbox which I'll be using to arrange UI of the calculator. Also came across the styled-components library, read the documentation and I'll also be using it to style the calculator.
+
+**Thoughts:**:
+
+**Link to work:**:
+
+### Day 95: July 11, 2016
+
+**Today's Progress**: Began with create-react-app to create the fcc-calculator to get started. Began by setting up a hierarchy of styled components purely to establish the UI of the app. Added a display grid, and a button grid using flex box. Read that is best to keep styling components separate from the components used to handle the data and logic of the app so I will try to apply this practice.
+
+**Thoughts:**:
+
+**Link to work:**: 
+
 
 
 
