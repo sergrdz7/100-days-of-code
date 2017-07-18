@@ -803,7 +803,43 @@ step 4: Dispatch
 
 **Thoughts:**:
 
-**Link to work:**: 
+**Link to work:**:[fcc-calculator](https://github.com/sergrdz7/fcc-calculator)
+
+### Day 96: July 12, 2016
+
+**Today's Progress**: Created necessary styling components. Every styled components can now be imported onto any react component and it will have the styles specified.
+
+**Thoughts:**:
+
+**Link to work:**:[fcc-calculator](https://github.com/sergrdz7/fcc-calculator)  
+
+### Day 97: July 14, 2016
+
+**Today's Progress**: Finished the basic UI layout by trail and error using flexbox along with styled components.
+
+**Thoughts:**:
+
+**Link to work:**:[fcc-calculator](https://github.com/sergrdz7/fcc-calculator)  
+
+### Day 97-99: July 15, 2016
+
+**Today's Progress**: Spent most of the time implementing the logic. Lots of of updating state and passing props from component to another but got stuck. I ended up simplifying the app by reducing the number of react components used and instead had one Calculator component where all the logic would be implemented. Lots and lots of frustration on these days but ended up finding a good example online that provided some guidance.
+
+**Thoughts:**:
+
+**Link to work:**:[fcc-calculator](https://github.com/sergrdz7/fcc-calculator)  
+
+### Day 100: July 17, 2016
+
+**Today's Progress**: Spent time doing some refactoring. App didn't turn out as planned but still implemented all of FCC's requirements. Now to deploy the app on Github pages and that will do it for my first round of 100 DAYS OF CODE!!!  
+
+**Thoughts:**: Some lessons learned:
+1. It's good to have something planned ahead for what you'll be working on next if not you'll find yourself wasting time trying to figure out what to do next.
+2. Most projects took longer than expected.
+3. There were days were frustration gets the best of you and you make little to no progress. Just remember there's always the next day!
+4. Didn't meet all my goals but I did learn a lot but most importantly made it a habit to actually sit, code, and help others along the way. 
+
+**Link to work:**:[fcc-calculator](https://github.com/sergrdz7/fcc-calculator)  
 
 
 
